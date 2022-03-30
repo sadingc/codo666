@@ -41,7 +41,7 @@ def main():
     # set in debug
     api_id = 14586634
     api_hash = '76be0d3cbc21ba384b593a012f6ee9c0'
-    bot_token = '5120127025:AAFiH-zykVW1h7KRn9UYcp72-_2ur9FoJJM'
+    bot_token = '5244217168:AAGvamgosk3IlcdGIcqjB4zs1yw__v9n83o'
     tl_admin_user = 'toni8790'
     # end
 
