@@ -39,10 +39,10 @@ def main():
     tl_admin_user = config.TG_ADMIN_USER
 
     # set in debug
-    api_id = 10610856
-    api_hash = '8a43d39c3eafe0fd50185a1c19017756'
-    bot_token = '5162585701:AAEl_UjmtFxOH-k1oKMVNXKQG3Ji-uE0bJw'
-    tl_admin_user = 'studio_apps_dev'
+    api_id = 14586634
+    api_hash = '76be0d3cbc21ba384b593a012f6ee9c0'
+    bot_token = '5120127025:AAFiH-zykVW1h7KRn9UYcp72-_2ur9FoJJM'
+    tl_admin_user = 'toni8790'
     # end
 
     #create dispatcher and regs
